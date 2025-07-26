@@ -5,44 +5,44 @@ st.markdown("<h1 style='text-align: center;'>Menu Susu Asik 🐮</h1>", unsafe_a
 
 menu_data = {
     "Menu Utama & Rasa Buah": {
-        "Susu Original": [6000, "../Gambar/Susu Original.jpg"],
-        "Susu Cokelat": [8000, "../Gambar/Susu Cokelat.jpg"],
-        "Susu Stroberi": [8000, "../Gambar/Susu Stroberi.jpg"],
-        "Susu Melon": [8000, "../Gambar/Susu Melon.jpg"],
-        "Susu Mangga": [8000, "../Gambar/Susu Mangga.jpg"],
-        "Susu Banana": [8000, "../Gambar/Susu Banana.jpg"],
-        "Susu Avocado": [8000, "../Gambar/Susu Avocado.jpg"],
-        "Susu Bluberi": [8000, "../Gambar/Susu Bluberi.jpg"],
-        "Susu Anggur": [8000, "../Gambar/Susu Anggur.jpg"],
-        "Susu Durian": [8000, "../Gambar/Susu Durian.jpg"]
+        "Susu Original": [6000, "Gambar/Susu Original.jpg"],
+        "Susu Cokelat": [8000, "Gambar/Susu Cokelat.jpg"],
+        "Susu Stroberi": [8000, "Gambar/Susu Stroberi.jpg"],
+        "Susu Melon": [8000, "Gambar/Susu Melon.jpg"],
+        "Susu Mangga": [8000, "Gambar/Susu Mangga.jpg"],
+        "Susu Banana": [8000, "Gambar/Susu Banana.jpg"],
+        "Susu Avocado": [8000, "Gambar/Susu Avocado.jpg"],
+        "Susu Bluberi": [8000, "Gambar/Susu Bluberi.jpg"],
+        "Susu Anggur": [8000, "Gambar/Susu Anggur.jpg"],
+        "Susu Durian": [8000, "Gambar/Susu Durian.jpg"]
     },
     "Menu Coffee, Tea, & Lain-lain": {
-        "Susu Coffee": [8000, "../Gambar/Susu Coffee.jpg"],
-        "Susu Cappucino": [8000, "../Gambar/Susu Cappucino.jpg"],
-        "Susu Vanila": [8000, "../Gambar/Susu Vanila.jpg"],
-        "Susu Milktea": [10000, "../Gambar/Susu Milktea.jpg"],
-        "Susu Bubble Gum": [10000, "../Gambar/Susu Bubble Gum.jpg"],
-        "Susu Choco Hazelnut": [13000, "../Gambar/Susu Choco Hazelnut.jpg"],
-        "Susu Milo": [13000, "../Gambar/Susu Milo.jpg"],
-        "Kopi Matcha": [13000, "../Gambar/Susu Matcha.jpg"]
+        "Susu Coffee": [8000, "Gambar/Susu Coffee.jpg"],
+        "Susu Cappucino": [8000, "Gambar/Susu Cappucino.jpg"],
+        "Susu Vanila": [8000, "Gambar/Susu Vanila.jpg"],
+        "Susu Milktea": [10000, "Gambar/Susu Milktea.jpg"],
+        "Susu Bubble Gum": [10000, "Gambar/Susu Bubble Gum.jpg"],
+        "Susu Choco Hazelnut": [13000, "Gambar/Susu Choco Hazelnut.jpg"],
+        "Susu Milo": [13000, "Gambar/Susu Milo.jpg"],
+        "Kopi Matcha": [13000, "Gambar/Susu Matcha.jpg"]
     },
     "Menu Spesial": {
-        "Susu Oreo": [10000, "../Gambar/Susu Oreo.jpg"],
-        "Susu Regal": [10000, "../Gambar/Susu Regal.jpg"],
-        "Susu Redvelvet": [10000, "../Gambar/Susu Redvelvet.jpg"],
-        "Susu Taro": [10000, "../Gambar/Susu Taro.jpg"],
-        "Susu Pink Lava": [10000, "../Gambar/Susu Pink Lava.jpg"]
+        "Susu Oreo": [10000, "Gambar/Susu Oreo.jpg"],
+        "Susu Regal": [10000, "Gambar/Susu Regal.jpg"],
+        "Susu Redvelvet": [10000, "Gambar/Susu Redvelvet.jpg"],
+        "Susu Taro": [10000, "Gambar/Susu Taro.jpg"],
+        "Susu Pink Lava": [10000, "Gambar/Susu Pink Lava.jpg"]
     },
     "Roti Bakar": {
-        "Rotbar Stroberi": [8000, "../Gambar/Rotbar Stroberi.jpg"],
-        "Rotbar Bluberi": [8000, "../Gambar/Rotbar Bluberi.jpg"],
-        "Rotbar Nanas": [8000, "../Gambar/Rotbar Nanas.jpg"],
-        "Rotbar Meses": [10000, "../Gambar/Rotbar Meses.png"],
-        "Rotbar Keju": [12000, "../Gambar/Rotbar Keju.jpg"],
-        "Rotbar Tiramisu": [12000, "../Gambar/Rotbar Tiramisu.jpg"],
-        "Rotbar Greentea": [12000, "../Gambar/Rotbar Greentea.jpg"],
-        "Rotbar Choco Crunchy": [12000, "../Gambar/Rotbar Choco Crunchy.jpg"],
-        "Rotbar Choco Crunchy Keju": [15000, "../Gambar/Rotbar Choco Crunchy Keju.png"],
+        "Rotbar Stroberi": [8000, "Gambar/Rotbar Stroberi.jpg"],
+        "Rotbar Bluberi": [8000, "Gambar/Rotbar Bluberi.jpg"],
+        "Rotbar Nanas": [8000, "Gambar/Rotbar Nanas.jpg"],
+        "Rotbar Meses": [10000, "Gambar/Rotbar Meses.png"],
+        "Rotbar Keju": [12000, "Gambar/Rotbar Keju.jpg"],
+        "Rotbar Tiramisu": [12000, "Gambar/Rotbar Tiramisu.jpg"],
+        "Rotbar Greentea": [12000, "Gambar/Rotbar Greentea.jpg"],
+        "Rotbar Choco Crunchy": [12000, "Gambar/Rotbar Choco Crunchy.jpg"],
+        "Rotbar Choco Crunchy Keju": [15000, "Gambar/Rotbar Choco Crunchy Keju.png"],
     }
 }
 
