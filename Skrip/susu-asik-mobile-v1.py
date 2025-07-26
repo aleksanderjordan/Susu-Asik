@@ -105,9 +105,7 @@ for i, menu in enumerate(menu_names):
         with st.container():
             harga_dasar = selected_data[menu]
 
-            qty = st.number_input("Jumlah", min_value=0, step=1,
-                                  value=st.session_state.get(f"qty_{menu}", 0),
-                                  key=f"qty_{menu}")
+            qty = st.number_input("Jumlah", min_value=0, step=1, key=f"qty_{menu}")
 
             if selected_category == "Roti Bakar":
                 porsi_default = st.session_state.get(f"porsi_{menu}", "Porsi Pas")
