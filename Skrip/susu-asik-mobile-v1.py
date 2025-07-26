@@ -195,7 +195,7 @@ if st.session_state.order_items:
             if key.startswith(("qty_", "ukuran_", "porsi_", "rasa_", "topping_")):
                 del st.session_state[key]
 
-    if st.button("Reset Pesanan", type="secondary"):
+    if st.button("Reset Pesanan"):
         reset_all_inputs()
         st.rerun()
 else:
