@@ -1,7 +1,6 @@
 import streamlit as st, pandas as pd
 
 st.set_page_config(page_title="Susu Asik", layout="wide")
-st.image("Gambar/Logo Susu Asik.png", use_container_width=True)
 st.markdown("<h1 style='text-align: center;'>Menu Susu Asik 🐮</h1>", unsafe_allow_html=True)
 
 menu_data = {
